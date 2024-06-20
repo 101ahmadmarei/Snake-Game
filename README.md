@@ -2,8 +2,6 @@
 
 This project is an AI-driven Snake game, inspired by the classic Nokia Snake game. In this version, the snake autonomously navigates and learns to eat food, growing bigger with each successful consumption. The AI improves its performance over successive rounds by learning from its experiences.
 
-## Demo
-[Include a link to a demo video or GIF showcasing the game, if available]
 
 ## Features
 
@@ -16,32 +14,7 @@ This project is an AI-driven Snake game, inspired by the classic Nokia Snake gam
 
 The Snake AI uses reinforcement learning to navigate the game board, eat food, and avoid collisions. With each round, the AI analyzes its performance and adjusts its strategy to maximize the score.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/snake-game-ai.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd snake-game-ai
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-## Usage
-
-Run the game using the following command:
-```bash
-python snake_game_ai.py
-```
-
-## Requirements
-
-* Python 3.x
-* [List any other dependencies or libraries used]
 
 ## How to Play
 
@@ -55,9 +28,6 @@ The AI utilizes reinforcement learning to optimize its performance. It learns fr
 
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Note
 
